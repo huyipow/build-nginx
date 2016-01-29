@@ -4,7 +4,7 @@
 #
 # Dockerizing php-fpm: Dockerfile for building php-fpm images
 #
-FROM       192.168.1.55/csphere/centos:7.1
+FROM       csphere/centos:7.2
 MAINTAINER Carson,C.J.Zeong <zcy@nicescale.com>
 
 # Set environment variable
